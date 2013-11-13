@@ -1,0 +1,11 @@
+D:\REPOSITORIOS\WireframeCube\WireframeCube\bin\Release\WireframeCube.exe.config
+D:\REPOSITORIOS\WireframeCube\WireframeCube\bin\Release\WireframeCube.exe
+D:\REPOSITORIOS\WireframeCube\WireframeCube\bin\Release\WireframeCube.pdb
+D:\REPOSITORIOS\WireframeCube\WireframeCube\bin\Release\WireframeCube.xml
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.vbprojResolveAssemblyReference.cache
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.Main.resources
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.Resources.resources
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.vbproj.GenerateResource.Cache
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.exe
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.xml
+D:\REPOSITORIOS\WireframeCube\WireframeCube\obj\x86\Release\WireframeCube.pdb
